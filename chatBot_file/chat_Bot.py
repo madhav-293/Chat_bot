@@ -5,7 +5,7 @@ import string
 import random
 
 
-f=open('/content/data.txt','r',errors='ignore')
+f=open('/chatBot_file/data.txt','r',errors='ignore')
 raw_doc=f.read()
 
 raw_doc=raw_doc.lower() #Converting entire text to lowercase
