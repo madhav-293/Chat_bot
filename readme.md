@@ -1,1 +1,1 @@
-##Change the extension of chatBot.py to chatBot.ipynb
+Change the extension of chatBot.py to chatBot.ipynb
